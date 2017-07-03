@@ -8,7 +8,7 @@ This works for _any_ field in the future class.
 ## For example:
  If you have 4,000 streetlights with 200 non unique asset tags, you could run dupelines and select the asset tag field.
 
-Now you have a future class of individual lines that go between streetlights with duplicate asset tags. Which might be helpful when fixing an issue like 200 non unique asset tags. 
+Now you have a future class of individual lines that go between pairs of streetlights with duplicated asset tags. Which might be helpful when fixing an issue like 200 non unique asset tags.
 
 Its also possible to draw lines between all the annotations withe the same font, if you’re into that kind of thing.
 
