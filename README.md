@@ -14,3 +14,4 @@ Its also possible to draw lines between all the annotations withe the same font,
 
 Specifically lines will go from the centroid of one feature to the centroid of another.
 Each line will have the duplicated value as a field, and a count of how many of those values were found
+The lines will have the same spatial reference as the original feature class 
